@@ -8,7 +8,7 @@ Django admin:
 login: admin
 password: qwerty
 
-БД прилагается
+БД прилагается в zip
 root
 qwetry
 
