@@ -12,9 +12,8 @@ password: qwerty
 root
 qwetry
 
-
-
-
+Для запуска перейти в фреймворке в директорию CityShops
+прописать python manage.py runserver
 
 http://127.0.0.1:8000/city/ - запрос городов
 http://127.0.0.1:8000/city/street/ - запрос улиц
